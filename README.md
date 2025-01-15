@@ -26,3 +26,7 @@ Um aplicativo em Python com interface gráfica que monitora o desempenho do sist
 - psutil: Para coletar métricas de desempenho do sistema.
 - tkinter: Para a interface gráfica.
 - datetime: Para registro de data e hora.
+
+# Imagem do software:
+![image](https://github.com/user-attachments/assets/d234cbcd-0a35-4305-8775-72edff564bfd)
+
