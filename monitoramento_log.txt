@@ -1,0 +1,9 @@
+2025-01-14 21:28:41.990644 - CPU: 2.3% | Memória: 50.1% | Disco: 45.3% | Enviado: 683.66 MB | Recebido: 29066.34 MB
+2025-01-14 21:28:44.998691 - CPU: 2.3% | Memória: 50.3% | Disco: 45.3% | Enviado: 683.66 MB | Recebido: 29066.35 MB
+2025-01-14 21:28:48.011693 - CPU: 2.2% | Memória: 50.2% | Disco: 45.3% | Enviado: 683.67 MB | Recebido: 29066.36 MB
+2025-01-14 21:28:51.019156 - CPU: 16.7% | Memória: 50.1% | Disco: 45.3% | Enviado: 683.86 MB | Recebido: 29089.10 MB
+2025-01-14 21:29:28.136659 - CPU: 0.4% | Memória: 49.1% | Disco: 45.3% | Enviado: 684.42 MB | Recebido: 29151.70 MB
+2025-01-14 21:29:31.144023 - CPU: 4.4% | Memória: 49.1% | Disco: 45.3% | Enviado: 684.43 MB | Recebido: 29151.71 MB
+2025-01-14 21:29:34.153149 - CPU: 18.8% | Memória: 49.1% | Disco: 45.3% | Enviado: 684.57 MB | Recebido: 29168.74 MB
+2025-01-14 21:29:37.160751 - CPU: 6.8% | Memória: 49.2% | Disco: 45.3% | Enviado: 684.70 MB | Recebido: 29183.22 MB
+2025-01-14 21:29:40.167614 - CPU: 1.4% | Memória: 49.1% | Disco: 45.3% | Enviado: 684.72 MB | Recebido: 29183.23 MB
